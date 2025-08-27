@@ -1,3 +1,5 @@
+v1.0
+
 Confluence page here: https://vbrick.atlassian.net/wiki/spaces/MQ/pages/1237417986/Embed+testing+tool
 
 This tool takes in an iframe, constructs an HTML page with it, and uploads it to S3. Then it provides the URL to the page, and automatically opens the page in the browser of your choice.
