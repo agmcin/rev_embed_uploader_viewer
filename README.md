@@ -2,6 +2,8 @@ Confluence page here: https://vbrick.atlassian.net/wiki/spaces/MQ/pages/12374179
 
 This tool takes in an iframe, constructs an HTML page with it, and uploads it to S3. Then it provides the URL to the page, and automatically opens the page in the browser of your choice.
 
+Get either the .exe, or the .py (if you have Python and want to run from command line).
+
 ## **One-Time Setup**
 
 1. Create a file with the AWS credentials (found on this page: [S3 Browser settings for QA Cloud](https://vbrick.atlassian.net/wiki/x/G4aE)) \
