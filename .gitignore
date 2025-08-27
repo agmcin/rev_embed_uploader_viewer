@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Executables
+*.exe
+
+# PyInstaller build files
+*.spec
+build/
+dist/
+
+# Local data/state
+last_embed.txt
+last_browser.txt
+page_embed_viewer.html
+localhost.*
+
+# OS files
+.DS_Store
+Thumbs.db
